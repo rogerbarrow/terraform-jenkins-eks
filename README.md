@@ -5,3 +5,7 @@ Step 1. Create a new Github Repo "Terraform-jenkins-eks" Copy and clone on your 
 **Create backend/data/main/provider/terraform and provider.tf Folder
 ![image](https://github.com/rogerbarrow/terraform-jenkins-eks/assets/46138186/28f539ef-4b33-42b7-bc04-2cf5e4eb5cd0)
 
+
+Make sure you currently have a S3 bucket created in AWS
+
+![image](https://github.com/rogerbarrow/terraform-jenkins-eks/assets/46138186/0227f41a-28f6-4ee7-bfb4-46549c2183ef)
