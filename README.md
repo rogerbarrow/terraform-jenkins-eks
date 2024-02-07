@@ -38,3 +38,5 @@ Initializing Terraform with command terraform apply Command
 
 
 ![image](https://github.com/rogerbarrow/terraform-jenkins-eks/assets/46138186/d320fdb7-a575-4d9d-9c95-9d378b7bfde6)
+
+![image](https://github.com/rogerbarrow/terraform-jenkins-eks/assets/46138186/a0a7beb2-86b7-4657-8b6b-62697d973db1)
