@@ -11,4 +11,12 @@ Make sure you currently have a S3 bucket created in AWS
 ![image](https://github.com/rogerbarrow/terraform-jenkins-eks/assets/46138186/0227f41a-28f6-4ee7-bfb4-46549c2183ef)
 
 Imput data into backend.tf file
+
 ![image](https://github.com/rogerbarrow/terraform-jenkins-eks/assets/46138186/f7add93d-3567-4442-b764-8ab01fca3f02)
+
+Next confirm the data source by going to google and type aws ami data source terraform
+
+![image](https://github.com/rogerbarrow/terraform-jenkins-eks/assets/46138186/1f9a7211-623c-4b3a-8660-720e06d17571)
+
+![image](https://github.com/rogerbarrow/terraform-jenkins-eks/assets/46138186/9e4d29b1-cafb-4170-b61f-d63d5b5c3a92)
+
