@@ -18,5 +18,9 @@ Next confirm the data source by going to google and type aws ami data source ter
 
 ![image](https://github.com/rogerbarrow/terraform-jenkins-eks/assets/46138186/1f9a7211-623c-4b3a-8660-720e06d17571)
 
+
 ![image](https://github.com/rogerbarrow/terraform-jenkins-eks/assets/46138186/9e4d29b1-cafb-4170-b61f-d63d5b5c3a92)
 
+Next in the main.tf you will want to create a VPC using Terraform modules
+
+![image](https://github.com/rogerbarrow/terraform-jenkins-eks/assets/46138186/66b674e6-3343-42d6-838e-23dab8992447)
