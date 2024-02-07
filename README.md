@@ -30,3 +30,11 @@ Next in the main.tf you will want to create a VPC using Terraform modules
 Initializing Terraform with command terraform init
 
 ![image](https://github.com/rogerbarrow/terraform-jenkins-eks/assets/46138186/012a7a85-1575-49a3-9d98-8f025725da2d)
+
+
+Initializing Terraform with command terraform plan  command
+
+Initializing Terraform with command terraform apply Command
+
+
+![image](https://github.com/rogerbarrow/terraform-jenkins-eks/assets/46138186/d320fdb7-a575-4d9d-9c95-9d378b7bfde6)
